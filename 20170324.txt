@@ -1,0 +1,1 @@
+-WP-Plugin, grober Entwurf der GUI in CSS
