@@ -1,0 +1,1 @@
+-WP-Plugin Recherche geeigneter Bibliotheken, Einbinden von Bibliotheken
